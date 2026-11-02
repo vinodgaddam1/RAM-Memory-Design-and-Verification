@@ -392,3 +392,13 @@ Demonstrate practical verification skills through:
 * QuestaSim coverage database generation and merging.
 
 The project demonstrates an end-to-end memory verification workflow using SystemVerilog.
+
+
+## 📊 14. Wave form Verification
+* One Write.
+<img width="1891" height="751" alt="Screenshot 2026-11-02 105204" src="https://github.com/user-attachments/assets/33664b08-0afc-4da5-8fec-57a8f2b47951" />
+
+
+
+
+
