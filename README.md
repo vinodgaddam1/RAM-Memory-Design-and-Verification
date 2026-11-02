@@ -353,7 +353,7 @@ RAM-Memory-Design-and-Verification/
 │   ├── 1W_1R.ucdb
 │   ├── 5W_5R.ucdb
 │   ├── NW_NR.ucdb
-│   ├── MIS.ucdb
+
 │   ├── Unknown.ucdb
 │   └── final.ucdb
 │
