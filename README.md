@@ -394,9 +394,39 @@ Demonstrate practical verification skills through:
 The project demonstrates an end-to-end memory verification workflow using SystemVerilog.
 
 
-## 📊 14. Wave form Verification
-* One Write.
-<img width="1891" height="751" alt="Screenshot 2026-11-02 105204" src="https://github.com/user-attachments/assets/33664b08-0afc-4da5-8fec-57a8f2b47951" />
+## 📊 14. Outputs
+# 🔄 Schematic
+# <img width="1558" height="727" alt="image" src="https://github.com/user-attachments/assets/d6f50e6e-ea69-4087-bec9-ef569e9b5d2b" />
+
+# ✅ Coverage Report: (Constrained random Verification and Function Verification):
+# <img width="1847" height="772" alt="Screenshot 2026-11-03 214227" src="https://github.com/user-attachments/assets/2083f420-595d-4527-abf3-9fcb3ecc8baa" />
+# <img width="946" height="723" alt="Screenshot 2026-11-03 215713" src="https://github.com/user-attachments/assets/51bc3249-2bc3-42dc-8f49-53268584a5e6" />
+# <img width="977" height="596" alt="Screenshot 2026-11-03 215723" src="https://github.com/user-attachments/assets/a61d6116-6290-42f3-b655-3a639d2c4c31" />
+
+
+
+# ✅ Code Coverage:
+# <img width="1131" height="805" alt="image" src="https://github.com/user-attachments/assets/27617e59-bfd1-4362-8bde-4272381ff3e1" />
+
+# <img width="906" height="827" alt="Screenshot 2026-11-03 214536" src="https://github.com/user-attachments/assets/5869508e-f99d-4824-89f2-47bb9b299f08" />
+
+# ✅  Branch_Coverage_Report:
+  # <img width="852" height="527" alt="image" src="https://github.com/user-attachments/assets/b9511268-1362-4709-af11-583964394db9" />
+
+# ✅  Conditional_Coverage_Report:
+# <img width="1067" height="667" alt="image" src="https://github.com/user-attachments/assets/67dfdc97-8702-4f7f-8a94-c63d1144a33b" />
+
+# ✅ Toggle_Coverage_Report:
+# <img width="940" height="707" alt="image" src="https://github.com/user-attachments/assets/dcc71370-9b9d-460c-919b-57fc3e8cf72c" />
+
+# ✅ Statment_Coverage_Report:
+# <img width="905" height="607" alt="image" src="https://github.com/user-attachments/assets/ee6319d1-7ebb-43ef-adcf-57552cf89eb2" />
+
+
+# ✅  Assertion
+# <img width="698" height="366" alt="image" src="https://github.com/user-attachments/assets/d67dfa72-190e-4445-9a76-ea0278a1be66" />
+
+
 
 
 
